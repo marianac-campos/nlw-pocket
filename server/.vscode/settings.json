@@ -1,0 +1,7 @@
+{
+    "cSpell.words": [
+        "fastify"
+    ],
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "biomejs.biome"
+}
